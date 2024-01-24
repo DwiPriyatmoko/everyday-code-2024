@@ -1,3 +1,7 @@
+// Coding challenge 2024
+// 1/366
+// url: https://www.codewars.com/kata/57f780909f7e8e3183000078
+
 // REGULAR FUNCTION
 /*
 function grow(x) {
